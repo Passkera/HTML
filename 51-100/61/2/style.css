@@ -1,0 +1,13 @@
+#num1 {
+    width: 400px;
+    border: 1px dashed blue;
+}
+#num2 {
+    margin: 25px;
+    border: 1px dashed green;
+}
+#num3 {
+    height: 200px;
+    margin: 25px;
+    border: 1px solid red;
+}
